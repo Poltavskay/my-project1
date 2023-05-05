@@ -1,0 +1,40 @@
+h1 {
+  color: blueviolet;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #04c3ff;
+  border-radius: 15px;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #04c3ff;
+  border-radius: 15px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: #04c3ff;
+  padding: 50px;
+}
+p {
+  text-align: center;
+  color: #04c3ff;
+  padding: 50px;
+}
+
+.time {
+  text-align: right;
+  margin-bottom: -210px;
+  margin-left: 50px;
+}
+
+.coded {
+  text-align: center;
+  margin-top: 120px;
+}
+ul {
+  list-style: none;
+}
